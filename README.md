@@ -68,3 +68,4 @@
 
 - Likewise feel free to tweet me in case you are stuck from somewhere, so that I can guide you in the right path.
 
+> Feel free to add new tasks and raise a PR I will merge it. 
